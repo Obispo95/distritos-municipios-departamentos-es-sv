@@ -1,0 +1,515 @@
+[
+    {
+        "departamento": "AHUACHAPÁN",
+        "municipios": [
+            {
+                "municipio": "AHUACHAPÁN NORTE",
+                "distritos": [
+                    "ATIQUIZAYA",
+                    "EL REFUGIO",
+                    "SAN LORENZO",
+                    "TURÍN"
+                ]
+            },
+            {
+                "municipio": "AHUACHAPÁN CENTRO",
+                "distritos": [
+                    "AHUACHAPÁN",
+                    "APANECA",
+                    "CONCEPCIÓN DE ATACO",
+                    "TACUBA"
+                ]
+            },
+            {
+                "municipio": "AHUACHAPÁN SUR",
+                "distritos": [
+                    "GUAYMANGO",
+                    "JUJUTLA",
+                    "SAN FRANCISCO MENÉNDEZ",
+                    "SAN PEDRO PUXTLA"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "CABAÑAS",
+        "municipios": [
+            {
+                "municipio": "CABAÑAS OESTE",
+                "distritos": [
+                    "CINQUERA",
+                    "ILOBAASCO",
+                    "JUTIAPA",
+                    "TEJUTEPEQUE"
+                ]
+            },
+            {
+                "municipio": "CABAÑAS ESTE",
+                "distritos": [
+                    "DOLORES",
+                    "GUACOTECTI",
+                    "SAN ISIDRO",
+                    "SENSUNTEPEQUE",
+                    "VICTORIA"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "CHALATENANGO",
+        "municipios": [
+            {
+                "municipio": "CHALATENANGO NORTE",
+                "distritos": [
+                    "LA PALMA",
+                    "CITALÁ",
+                    "SAN IGNACIO"
+                ]
+            },
+            {
+                "municipio": "CHALATENANGO CENTRO",
+                "distritos": [
+                    "AGUA CALIENTE",
+                    "DULCE NOMBRE DE MARÍA",
+                    "EL PARAÍSO",
+                    "LA REINA",
+                    "NUEVA CONCEPCIÓN",
+                    "SAN FERNANDO",
+                    "SAN FRANCISCO MORAZÁN",
+                    "SAN RAFAEL",
+                    "SANTA RITA",
+                    "TEJUTLA"
+                ]
+            },
+            {
+                "municipio": "CHALATENANGO SUR",
+                "distritos": [
+                    "ARCATAO",
+                    "AZACUALPA",
+                    "CHALATENANGO",
+                    "COMALAPA",
+                    "CONCEPCIÓN QUEZALTEPEQUE",
+                    "EL CARRIZAL",
+                    "LA LAGUNA",
+                    "LAS VUELTAS",
+                    "NOMBRE DE JESÚS",
+                    "NUEVA TRINIDAD",
+                    "OJOS DE AGUA",
+                    "POTONICO",
+                    "SAN ANTONIO DE LA CRUZ",
+                    "SAN ANTONIO LOS RANCHOS",
+                    "SAN FRANCISCO LEMPA",
+                    "SAN ISIDRO LABRADOR",
+                    "SAN JOSÉ CANCASQUE",
+                    "SAN JOSÉ LAS FLORES",
+                    "SAN LUIS DEL CARMEN",
+                    "SAN MIGUEL DE MERCEDES"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "CUSCATLÁN",
+        "municipios": [
+            {
+                "municipio": "CUSCATLÁN NORTE",
+                "distritos": [
+                    "ORATORIO DE CONCEPCIÓN",
+                    "SAN BARTOLOMÉ PERULAPÍA",
+                    "SAN JOSÉ GUAYABAL",
+                    "SAN PEDRO PERULAPÁN",
+                    "SUCHITOTO"
+                ]
+            },
+            {
+                "municipio": "CUSCATLÁN SUR",
+                "distritos": [
+                    "CANDELARIA",
+                    "COJUTEPEQUE",
+                    "EL CARMEN",
+                    "EL ROSARIO",
+                    "MONTE SAN JUAN",
+                    "SAN CRISTÓBAL",
+                    "SAN RAFAEL CEDROS",
+                    "SAN RAMÓN",
+                    "SANTA CRUZ ANALQUITO",
+                    "SANTA CRUZ MICHAPA",
+                    "TENANCINGO"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "LA LIBERTAD",
+        "municipios": [
+            {
+                "municipio": "LA LIBERTAD NORTE",
+                "distritos": [
+                    "QUEZALTEPEQUE",
+                    "SAN MATÍAS",
+                    "SAN PABLO TACACHICO"
+                ]
+            },
+            {
+                "municipio": "LA LIBERTAD CENTRO",
+                "distritos": [
+                    "CIUDAD ARCE",
+                    "SAN JUAN OPICO"
+                ]
+            },
+            {
+                "municipio": "LA LIBERTAD OESTE",
+                "distritos": [
+                    "COLÓN",
+                    "JAYAQUE",
+                    "SACACOYO",
+                    "TALNIQUE",
+                    "TEPECOYO"
+                ]
+            },
+            {
+                "municipio": "LA LIBERTAD ESTE",
+                "distritos": [
+                    "ANTIGUO CUSCATLÁN",
+                    "HUIZÚCAR",
+                    "NUEVO CUSCATLÁN",
+                    "SAN JOSÉ VILLANUEVA",
+                    "ZARAGOZA"
+                ]
+            },
+            {
+                "municipio": "LA LIBERTAD COSTA",
+                "distritos": [
+                    "CHILTIUPÁN",
+                    "JICALAPA",
+                    "LA LIBERTAD",
+                    "TAMANIQUE",
+                    "TEOTEPEQUE"
+                ]
+            },
+            {
+                "municipio": "LA LIBERTAD SUR",
+                "distritos": [
+                    "SANTA TECLA",
+                    "COMASAGUA"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "LA PAZ",
+        "municipios": [
+            {
+                "municipio": "LA PAZ OESTE",
+                "distritos": [
+                    "CUYULTITÁN",
+                    "OLOCUILTA",
+                    "SAN FRANCISCO CHINAMECA",
+                    "SAN JUAN TALPA",
+                    "SAN LUIS TALPA",
+                    "SAN PEDRO MASAHUAT",
+                    "TAPALHUACA"
+                ]
+            },
+            {
+                "municipio": "LA PAZ CENTRO",
+                "distritos": [
+                    "EL ROSARIO",
+                    "JERUSALÉN",
+                    "MERCEDES LA CEIBA",
+                    "PARAÍSO DE OSORIO",
+                    "SAN ANTONIO MASAHUAT",
+                    "SAN EMIGDIO",
+                    "SAN JUAN TEPEZONTES",
+                    "SAN LUIS LA HERRADURA",
+                    "SAN MIGUEL TEPEZONTES",
+                    "SAN PEDRO NONUALCO",
+                    "SANTA MARÍA OSTUMA",
+                    "SANTIAGO NONUALCO"
+                ]
+            },
+            {
+                "municipio": "LA PAZ ESTE",
+                "distritos": [
+                    "ZACATECOLUCA",
+                    "SAN JUAN NONUALCO",
+                    "SAN RAFAEL OBRAJUELO"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "LA UNIÓN",
+        "municipios": [
+            {
+                "municipio": "LA UNIÓN NORTE",
+                "distritos": [
+                    "ANAMORÓS",
+                    "BOLÍVAR",
+                    "CONCEPCIÓN DE ORIENTE",
+                    "EL SAUCE",
+                    "LISLIQUE",
+                    "NUEVA ESPARTA",
+                    "PASAQUINA",
+                    "OLORÓS",
+                    "SAN JOSÉ LA FUENTE",
+                    "SANTA ROSA DE LIMA"
+                ]
+            },
+            {
+                "municipio": "LA UNIÓN SUR",
+                "distritos": [
+                    "CONCHAGUA",
+                    "EL CARMEN",
+                    "INTIPUCÁ",
+                    "LA UNIÓN",
+                    "MEANGUERA DEL GOLFO",
+                    "SAN ALEJO",
+                    "YAYANTIQUE",
+                    "YUCUAIQUÍN"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "MORAZÁN",
+        "municipios": [
+            {
+                "municipio": "MORAZÁN NORTE",
+                "distritos": [
+                    "ARAMBALA",
+                    "CACAOPERA",
+                    "CORINTO",
+                    "EL ROSARIO",
+                    "JOATECA",
+                    "JOCOAITIQUE",
+                    "MEANGUERA",
+                    "PERQUÍN",
+                    "SAN FERNANDO",
+                    "SAN ISIDRO",
+                    "TOROLA"
+                ]
+            },
+            {
+                "municipio": "MORAZÁN SUR",
+                "distritos": [
+                    "CHILANGA",
+                    "DELICIAS DE CONCEPCIÓN",
+                    "EL DIVISADERO",
+                    "GUALOCOCTI",
+                    "GUATAJIAGUA",
+                    "JOCORO",
+                    "LOLOTIQUILLO",
+                    "OSICALA",
+                    "SAN CARLOS",
+                    "SAN FRANCISCO GOTERA",
+                    "SAN SIMÓN",
+                    "SENSEMBRA",
+                    "SOCIEDAD",
+                    "YAMABAL",
+                    "YOLOAIQUÍN"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "SAN MIGUEL",
+        "municipios": [
+            {
+                "municipio": "SAN MIGUEL NORTE",
+                "distritos": [
+                    "CAROLINA",
+                    "CHAPELTIQUE",
+                    "CIUDAD BARRIOS",
+                    "NUEVO EDÉN DE SAN JUAN",
+                    "SAN ANTONIO DEL MOSCO",
+                    "SAN GERARDO",
+                    "SAN LUIS DE LA REINA",
+                    "SESORI"
+                ]
+            },
+            {
+                "municipio": "SAN MIGUEL CENTRO",
+                "distritos": [
+                    "CHIRILAGUA",
+                    "COMACARÁN",
+                    "MONCAGUA",
+                    "QUELEPA",
+                    "ULUAZAPA",
+                    "SAN MIGUEL"
+                ]
+            },
+            {
+                "municipio": "SAN MIGUEL OESTE",
+                "distritos": [
+                    "CHINAMECA",
+                    "EL TRÁNSITO",
+                    "LOLOTIQUE",
+                    "NUEVA GUADALUPE",
+                    "SAN JORGE",
+                    "SAN RAFAEL ORIENTE"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "SAN SALVADOR",
+        "municipios": [
+            {
+                "municipio": "SAN SALVADOR NORTE",
+                "distritos": [
+                    "AGUILARES",
+                    "EL PAISNAL",
+                    "GUAZAPA"
+                ]
+            },
+            {
+                "municipio": "SAN SALVADOR OESTE",
+                "distritos": [
+                    "APOPA",
+                    "NEJAPA"
+                ]
+            },
+            {
+                "municipio": "SAN SALVADOR ESTE",
+                "distritos": [
+                    "ILOPANGO",
+                    "SAN MARTÍN",
+                    "SOYAPANGO",
+                    "TONACATEPEQUE"
+                ]
+            },
+            {
+                "municipio": "SAN SALVADOR CENTRO",
+                "distritos": [
+                    "AYUTUXTEPEQUE",
+                    "CIUDAD DELGADO",
+                    "CUSCATANCINGO",
+                    "MEJICANOS",
+                    "SAN SALVADOR"
+                ]
+            },
+            {
+                "municipio": "SAN SALVADOR SUR",
+                "distritos": [
+                    "PANCHIMALCO",
+                    "ROSARIO DE MORA",
+                    "SAN MARCOS",
+                    "SANTIAGO TEXACUANGOS",
+                    "SANTO TOMÁS"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "SAN VICENTE",
+        "municipios": [
+            {
+                "municipio": "SAN VICENTE NORTE",
+                "distritos": [
+                    "APASTETEPEQUE",
+                    "SAN ESTEBAN CATARINA",
+                    "SAN ILDEFONSO",
+                    "SAN LORENZO",
+                    "SANTA CLARA",
+                    "SANTO DOMINGO"
+                ]
+            },
+            {
+                "municipio": "SAN VICENTE SUR",
+                "distritos": [
+                    "GUADALUPE",
+                    "SAN CAYETANO ISTEPEQUE",
+                    "SAN VICENTE",
+                    "TECOLUCA",
+                    "TEPETITÁN",
+                    "VERAPAZ"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "SONSONATE",
+        "municipios": [
+            {
+                "municipio": "SONSONATE NORTE",
+                "distritos": [
+                    "JUAYÚA",
+                    "NAHUIZALCO",
+                    "SALCOATITÁN",
+                    "SANTA CATARINA MASAHUAT"
+                ]
+            },
+            {
+                "municipio": "SONSONATE CENTRO",
+                "distritos": [
+                    "SONSONATE",
+                    "SONZACATE",
+                    "NAHULINGO",
+                    "SAN ANTONIO DEL MONTE",
+                    "SANTO DOMINGO DE GUZMÁN"
+                ]
+            },
+            {
+                "municipio": "SONSONATE ESTE",
+                "distritos": [
+                    "ARMENIA",
+                    "CALUCO",
+                    "CUISNAHUAT",
+                    "IZALCO",
+                    "SAN JULIÁN",
+                    "SANTA ISABEL ISHUATÁN"
+                ]
+            },
+            {
+                "municipio": "SONSONATE OESTE",
+                "distritos": [
+                    "ACAJUTLA"
+                ]
+            }
+        ]
+    },
+    {
+        "departamento": "USULUTÁN",
+        "municipios": [
+            {
+                "municipio": "USULUTÁN NORTE",
+                "distritos": [
+                    "ALEGRÍA",
+                    "BERLÍN",
+                    "EL TRIUNFO",
+                    "ESTANZUELAS",
+                    "JUCUAPA",
+                    "MERCEDES UMAÑA",
+                    "NUEVA GRANADA",
+                    "SAN BUENAVENTURA",
+                    "SANTIAGO DE MARÍA"
+                ]
+            },
+            {
+                "municipio": "USULUTÁN ESTE",
+                "distritos": [
+                    "CALIFORNIA",
+                    "CONCEPCIÓN BATRES",
+                    "EREGUAYQUÍN",
+                    "JUCUARÁN",
+                    "OZATLÁN",
+                    "SAN DIONISIO",
+                    "SANTA ELENA",
+                    "SANTA MARÍA",
+                    "TECAPÁN",
+                    "USULUTÁN"
+                ]
+            },
+            {
+                "municipio": "USULUTÁN OESTE",
+                "distritos": [
+                    "JIQUILISCO",
+                    "PUERTO EL TRIUNFO",
+                    "SAN FRANCISCO JAVIER",
+                    "SAN AGUSTÍN"
+                ]
+            }
+        ]
+    }
+]
